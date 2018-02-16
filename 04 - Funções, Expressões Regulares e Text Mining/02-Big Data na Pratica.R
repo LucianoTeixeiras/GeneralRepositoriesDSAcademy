@@ -35,6 +35,7 @@ system.time(df_teste2 <- read.table("TemperaturasGlobais.csv"))
 ?fread
 system.time(df <- fread("TemperaturasGlobais.csv"))
 
+#Visualizando o df - Data Frame
 View(df)
 
 # Criando subsets dos dados carregados
