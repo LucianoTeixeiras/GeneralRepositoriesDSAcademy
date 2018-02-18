@@ -1,6 +1,5 @@
 # Fatores
 
-
 vec1 <- c("Macho","Femea","Femea","Macho","Macho")
 vec1
 fac_vec1 <- factor(vec1)
