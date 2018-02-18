@@ -35,3 +35,8 @@ ssh-add ~/.ssh/id_rsa
 Para copiar a chave do bash, digite o seguinte comando:
   
 clip < ~/.ssh/id_rsa.pub  
+
+#Tools/Shell
+
+git config --global user.email "luciano.teixeiras@gmail.com"
+git config --global user.name "LucianoTeixeiras"
