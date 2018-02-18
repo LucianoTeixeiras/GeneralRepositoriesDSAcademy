@@ -2,14 +2,14 @@
 
 #1- Precisamos gerar uma chave SSH que seu computador vai usar pra se autorizar com o Github. Digite o seguinte comando no Git Bash:
   
-  ssh-keygen -t rsa -b 4096 -C "seu_email@dominio.com"  
+ssh-keygen -t rsa -b 4096 -C "seu_email@dominio.com"  
 
 #(lembre-se de trocar o e-mail)
 #O resultado será:
   
-  Generating public/private rsa key pair.  
-Enter file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]  
-Você quer salvar a chave nesse arquivo mesmo, só dê enter.
+# Generating public/private rsa key pair.  
+# Enter file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]  
+# Você quer salvar a chave nesse arquivo mesmo, só dê enter.
 
 Depois, ele vai pedir uma senha:
   
