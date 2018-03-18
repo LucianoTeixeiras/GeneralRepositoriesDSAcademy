@@ -62,8 +62,9 @@ ldply(y, sum)
 
 
 # Benchmark
-install.packages('rbenchmark')
+install.packages(c('rbenchmark','ldply'))
 library(rbenchmark)
+library(ldply)
 benchmark(do.call(sum, y), ldply(y, sum))
 
 N <- list(as.numeric(1:30000), as.numeric(4:60000), as.numeric(7:90000))
@@ -179,8 +180,4 @@ class(matriz3)
 typeof(matriz1)
 typeof(matriz2)
 typeof(matriz3)
-
-
-
-
 
