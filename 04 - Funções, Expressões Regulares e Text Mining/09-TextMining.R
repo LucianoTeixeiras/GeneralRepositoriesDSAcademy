@@ -9,7 +9,7 @@ library("RColorBrewer")
 library("corpus")
 
 # Carregando o dataset
-df <- read.csv('questoes.csv', stringsAsFactors = FALSE)
+df <- read.csv("questoes.csv", stringsAsFactors = FALSE)
 head(df)
 
 # Criando um Corpus
@@ -23,13 +23,13 @@ dfCorpus <- tm_map(dfCorpus, PlainTextDocument)
 dfCorpus <- tm_map(dfCorpus, removePunctuation)
 
 # Remover palavras específicas do inglês
-dfCorpus <- tm_map(dfCorpus, removeWords, stopwords('english'))
+dfCorpus <- tm_map(dfCorpus, removeWords, stopwords("english"))
 
 # Neste processo, várias versões de uma palavras são convertidas em uma única instância
 dfCorpus <- tm_map(dfCorpus, stemDocument)
 
 # Removendo palavras específicas
-dfCorpus <- tm_map(dfCorpus, removeWords, c('the', 'this', stopwords('english')))
+dfCorpus <- tm_map(dfCorpus, removeWords, c("the", "this", stopwords("english")))
 
 # wordcloud
 wordcloud(dfCorpus, max.words = 100, random.order = FALSE)
