@@ -31,9 +31,6 @@ dfCorpus <- tm_map(dfCorpus, stemDocument)
 # Removendo palavras específicas
 dfCorpus <- tm_map(dfCorpus, removeWords, c('the', 'this', stopwords('english')))
 
-install.packages("SnowballC")
-library("SnowballC")
-
 # wordcloud
 wordcloud(dfCorpus, max.words = 100, random.order = FALSE)
 
