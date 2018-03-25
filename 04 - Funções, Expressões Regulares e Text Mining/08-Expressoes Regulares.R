@@ -59,9 +59,3 @@ gsub("\\s", "", str2)
 gsub("[iot]", "Q", str2)
 gsub("[[:punct:]]", "", str2)
 gsub("[^@]", "", str2)
-
-
-
-
-
-
