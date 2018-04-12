@@ -1,6 +1,6 @@
 public class Exercicio_15 {
 
-    // Estrutura de Repetição com Alteração no Fluxo da Execução com Swith
+    // Estruturas de Seleção Múltiplia - Parte 01
 
     public static void main(String[] args) {
 
