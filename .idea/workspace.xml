@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd11f619-e9a2-40b4-b082-0afab983165e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/01_JavaInroducao/src/Exercicio_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Introducao_old/src/Exercicio_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,8 +102,7 @@
             <path>
               <item name="DSAcademyJavaFundamentosReview" type="b2602c69:ProjectViewProjectNode" />
               <item name="DSAcademyJavaFundamentosReview" type="462c0819:PsiDirectoryNode" />
-              <item name="01_JavaInroducao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="02_JavaFundamentosI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,6 +121,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Luciano Teixeira\Documents\GitHub\DSAcademyJavaFundamentosReview\01_JavaInroducao" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,7 +202,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523931384078</updated>
-      <workItem from="1523931387800" duration="845000" />
+      <workItem from="1523931387800" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="Commi Capítulo 03">
       <created>1523931962564</created>
@@ -208,26 +211,40 @@
       <option name="project" value="LOCAL" />
       <updated>1523931962564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Capítulo 04 - Reorganizando Pastas">
+      <created>1523932376131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523932376131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Capítulo 03 - Reorganizando Pastas">
+      <created>1523932520392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523932520392</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="845000" />
+    <option name="totallyTimeSpent" value="1409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -256,7 +273,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commi Capítulo 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commi Capítulo 03" />
+    <MESSAGE value="Commit Capítulo 04 - Reorganizando Pastas" />
+    <MESSAGE value="Commit Capítulo 03 - Reorganizando Pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Capítulo 03 - Reorganizando Pastas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01_Introducao_old/src/Exercicio_01.java">
