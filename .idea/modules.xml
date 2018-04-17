@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01_Introducao/01_Introducao.iml" filepath="$PROJECT_DIR$/01_Introducao/01_Introducao.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_JavaFundamentosI/02_JavaFundamentosI.iml" filepath="$PROJECT_DIR$/02_JavaFundamentosI/02_JavaFundamentosI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DSAcademyJavaFundamentosReview.iml" filepath="$PROJECT_DIR$/DSAcademyJavaFundamentosReview.iml" />
     </modules>
   </component>
 </project>
