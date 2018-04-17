@@ -11,5 +11,34 @@ public class Exercicio_22 {
 
         System.out.println(String.format("%s tem %d caracteres!!!", anotherPalindrome, anotherPalindrome.length()));
 
+        // Convertendo para maiúsculo
+
+        System.out.println("dsacademy é incrível!!!".toUpperCase());
+
+        // Procurando a primeira ocorrência de uma susbtring em uma sring
+
+        int primeiraOcorrencia = anotherPalindrome.indexOf("ga");
+        System.out.println(primeiraOcorrencia);
+
+        // Procurando a última ocorrência de uma susbtring em uma sring
+
+        int ultimaOcorrencia = anotherPalindrome.lastIndexOf("ga");
+        System.out.println(ultimaOcorrencia);
+
+        // Verificando se uma String possui um Substring
+        // Retorno do método contains booleano (verdadeiro ou falso)
+
+        System.out.println("DSAcademy é incrível".contains("é"));
+        System.out.println("DSAcademy é incrível".contains("Curso Ruim"));
+
+        // Susbtituindo caracteres e realizando encadeamento
+
+        String frase = "Seja-bem-vindo-ao-curso-de-java-fundamentos!!!"
+                .replace('-',' ')
+                .replaceAll(" ", "  ")
+                .replaceFirst("ja", "JA");
+
+        System.out.println(frase);
+
     }
 }
