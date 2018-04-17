@@ -21,11 +21,5 @@ public class Exercicio_21 {
         String[] arrayNomes = nomes.split(",");
         for (String nome : arrayNomes)
             System.out.println(nome);
-
-        // Obtendo o comprimento de uma String
-        // Lembrando que o índice inicial (posição do promeiro elemento é 0)
-
-        System.out.println(String.format("%s tem %d caracteres!!!", anotherPalindrome, anotherPalindrome.length()));
-
     }
 }
