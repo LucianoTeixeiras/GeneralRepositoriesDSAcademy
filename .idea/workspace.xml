@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd11f619-e9a2-40b4-b082-0afab983165e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dd11f619-e9a2-40b4-b082-0afab983165e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,6 +102,11 @@
               <item name="DSAcademyJavaFundamentosReview" type="462c0819:PsiDirectoryNode" />
               <item name="02_JavaFundamentosI" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DSAcademyJavaFundamentosReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSAcademyJavaFundamentosReview" type="462c0819:PsiDirectoryNode" />
+              <item name="03_JavaFundamentosII" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -118,7 +121,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -202,7 +205,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523931384078</updated>
-      <workItem from="1523931387800" duration="1409000" />
+      <workItem from="1523931387800" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="Commi Capítulo 03">
       <created>1523931962564</created>
@@ -225,11 +228,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523932520392</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Capítulo 03 - Reorganizando Pastas Fim">
+      <created>1523932851068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523932851068</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1409000" />
+    <option name="totallyTimeSpent" value="1509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -244,7 +254,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -275,7 +285,8 @@
     <MESSAGE value="Commi Capítulo 03" />
     <MESSAGE value="Commit Capítulo 04 - Reorganizando Pastas" />
     <MESSAGE value="Commit Capítulo 03 - Reorganizando Pastas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Capítulo 03 - Reorganizando Pastas" />
+    <MESSAGE value="Commit Capítulo 03 - Reorganizando Pastas Fim" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Capítulo 03 - Reorganizando Pastas Fim" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01_Introducao_old/src/Exercicio_01.java">
@@ -352,7 +363,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>01_Introducao_old</last-edited>
+          <last-edited>03_JavaFundamentosII</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
