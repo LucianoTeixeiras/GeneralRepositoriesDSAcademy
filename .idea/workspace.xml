@@ -87,7 +87,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_JavaFundamentos_I" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_JavaFundamentos_I_old" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -214,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525291380441</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit de Ajuste de Modulos/Teste Recriando um Modulo Novamente">
+      <created>1525292304108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1525292304108</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -256,7 +263,8 @@
     <MESSAGE value="Commit de Ajuste de Modulos" />
     <MESSAGE value="Commit de Ajuste de Modulos/Teste" />
     <MESSAGE value="Commit de Ajuste de Modulos/Teste Recriando um Modulo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit de Ajuste de Modulos/Teste Recriando um Modulo" />
+    <MESSAGE value="Commit de Ajuste de Modulos/Teste Recriando um Modulo Novamente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de Ajuste de Modulos/Teste Recriando um Modulo Novamente" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
