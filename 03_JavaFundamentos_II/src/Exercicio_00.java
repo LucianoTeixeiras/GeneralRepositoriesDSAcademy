@@ -1,3 +1,9 @@
+/*
+* Create by Luciano Teixeira on 02/05/2018.
+* Conversões entre tipos
+* Referência: https://docs.oracle.com/javase/specs/jls/se8/html/jls-5.html
+* */
+
 public class Exercicio_00 {
 
     public static void main(String[] args) {
@@ -32,6 +38,11 @@ public class Exercicio_00 {
         // Um short pode receber um itneiro? Não!
         // meuInteiro = 2000000000;
         // meuShort = meuInteiro;
+
+        // E se quisermos fazer uma conversão explícita
+        meuInteiro = 2000000000;
+        meuShort = (short)meuInteiro;
+        System.out.println("Aqui => " + meuShort);
 
     }
 }
