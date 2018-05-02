@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01_Introducao_old/01_Introducao_old.iml" filepath="$PROJECT_DIR$/01_Introducao_old/01_Introducao_old.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_JavaInroducao/01_JavaInroducao.iml" filepath="$PROJECT_DIR$/01_JavaInroducao/01_JavaInroducao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02_JavaFundamentosI/02_JavaFundamentosI.iml" filepath="$PROJECT_DIR$/02_JavaFundamentosI/02_JavaFundamentosI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03_JavaFundamentosII/03_JavaFundamentosII.iml" filepath="$PROJECT_DIR$/03_JavaFundamentosII/03_JavaFundamentosII.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04_JavaProgramacaoOO/04_JavaProgramacaoOO.iml" filepath="$PROJECT_DIR$/04_JavaProgramacaoOO/04_JavaProgramacaoOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_JavaFundamentos_I/02_JavaFundamentos_I.iml" filepath="$PROJECT_DIR$/02_JavaFundamentos_I/02_JavaFundamentos_I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_JavaFundamentos_II/03_JavaFundamentos_II.iml" filepath="$PROJECT_DIR$/03_JavaFundamentos_II/03_JavaFundamentos_II.iml" />
     </modules>
   </component>
 </project>
