@@ -17,5 +17,3 @@ barplot(casamentos, beside = T)
 
 # Transposta da matriz
 barplot(t(casamentos), beside = T)
-
-

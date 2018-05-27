@@ -31,6 +31,7 @@ pie(Values, labels = labels, main = "Distribuição de Especies")
 
 
 # 3D
+install.packages("plotrix")
 library(plotrix)
 
 pie3D(fatias, labels = paises, explode = 0.05,
