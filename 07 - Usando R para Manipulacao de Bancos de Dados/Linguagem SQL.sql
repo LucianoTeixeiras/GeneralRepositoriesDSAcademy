@@ -35,9 +35,10 @@ CREATE TABLE titanic (
 );	
 	
 # Carrega os dados do arquivo csv na tabela
-LOAD DATA INFILE '/opt/DSA/RFundamentos/Parte3/titanic.csv' 
-INTO TABLE titanic 
-FIELDS TERMINATED BY ',' 
+LOAD DATA INFILE '/opt/DSA/RFundamentos/Parte3/titanic.csv'
+LOAD DATA INFILE '/home/luciano/GitHub/DSAcademyRFundamentos/07 - Usando R para Manipulacao de Bancos de Dados/titanic.csv'
+INTO TABLE titanic
+FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
