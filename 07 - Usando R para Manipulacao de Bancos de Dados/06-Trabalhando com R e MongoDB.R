@@ -1,7 +1,7 @@
 # R e MongoDB
 
 # Criando uma colecao no MongoDB
-# ./mongoimport --db users --collection contatos --file /opt/DSA/RFundamentos/Parte3/zips.json
+./mongoimport --db users --collection contatos --file /opt/DSA/RFundamentos/Parte3/zips.json
 
 # RMongo
 # RMongoDB
