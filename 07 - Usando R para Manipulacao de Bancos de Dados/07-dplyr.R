@@ -150,13 +150,3 @@ head(aggregate(ArrDelay ~ Dest, flights, mean))
 flights %>%
   group_by(Month, DayofMonth) %>%
   tally(sort = TRUE)
-
-
-
-
-
-
-
-
-
-

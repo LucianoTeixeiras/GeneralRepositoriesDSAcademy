@@ -1,7 +1,9 @@
 # R e MongoDB
+# R R version 3.0.0
 
 # Criando uma colecao no MongoDB
-./mongoimport --db users --collection contatos --file /opt/DSA/RFundamentos/Parte3/zips.json
+# ./mongoimport --db users --collection contatos --file /opt/DSA/RFundamentos/Parte3/zips.json
+# mongoimport.exe --db users --collection contatos --file C:\import\zips.json
 
 # RMongo
 # RMongoDB
@@ -52,23 +54,9 @@ head(pops, 2)
 mongo.destroy(mongo)
 
 # Criando e validando um arquivo json
+install.packages("jsonlite")
 library(jsonlite)
 json_arquivo <- '{"pop":{"$lte":2}, "pop":{"$gte":1}}'
 cat(prettify(json_arquivo))
 
 validate(json_arquivo)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
