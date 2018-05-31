@@ -67,8 +67,9 @@ names(tab) <- c("number", "date", "site", "result")
 head(tab)
 
 # Convertendo de algarismos romanos para numeros inteiros
-tab$number <- 1:50
+tab$number <- 1:52
 tab$date <- as.Date(tab$date, "%B. %d, %Y")
+tab
 head(tab)
 
 # Dividindo as colunas em 4 colunas
