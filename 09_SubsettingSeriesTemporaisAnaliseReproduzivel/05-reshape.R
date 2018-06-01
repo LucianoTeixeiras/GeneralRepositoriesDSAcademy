@@ -97,9 +97,3 @@ df_wide <- melt(airquality, id.vars = c("month", "day"))
 df_long <- dcast(df_wide, month + day ~ variable)
 head(df_long)
 head(airquality)
-
-
-
-
-
-
