@@ -7,6 +7,7 @@
 ?scan
 reis <- scan("http://robjhyndman.com/tsdldata/misc/kings.dat", skip = 3)
 reis
+head(reis)
 class(reis)
 
 # Transformando os dados em series temporais
@@ -27,8 +28,10 @@ install.packages("forecast")
 library(xts)
 library(forecast)
 
-# Cotacao de acoes da Petrobras
-url <- "http://ichart.finance.yahoo.com/table.csv?s=IBM&a=00&b=2&c=1990&d=05&e=26&f=2016&g=d&ignore=.csv"
+# Cotacao de acoes da IBM
+#url <- "http://ichart.finance.yahoo.com/table.csv?s=IBM&a=00&b=2&c=1990&d=05&e=26&f=2016&g=d&ignore=.csv"
+url <- "http://finance.yahoo.com/table.csv?s=IBM&a=00&b=2&c=1990&d=05&e=26&f=2016&g=d&ignore=.csv"
+url
 
 # Lendo o conteudo da url para um dataframe
 IBM.df <- read.table(url, header = TRUE, sep = ",")		
