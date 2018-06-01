@@ -59,9 +59,11 @@ str(df[, "x"])
 # Removendo colunas de dataframes
 df <- data.frame(x = 1:3, y = 3:1, z = letters[1:3])
 df
-df$z <- NULL
+df$z <- NULL #exluindo
 df
-df[setdiff(names(df), "z")]
+df <- data.frame(x = 1:3, y = 3:1, z = letters[1:3])
+df
+df[setdiff(names(df), "z")] #ocultando/não retornando
 
 
 # Operadores [], [[]] e $
