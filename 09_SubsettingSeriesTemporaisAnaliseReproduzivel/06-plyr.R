@@ -32,6 +32,7 @@ ddply(gapminder, ~ continent,
 
 
 # Usando um dataset do ggplot
+install.packages("ggplot2")
 library(ggplot2)
 data(mpg)
 str(mpg)
@@ -68,6 +69,3 @@ ddply(data, .(manufacturer, drv),
 # Perceba a diferenca entre summarize e transform
 ddply(data, .(drv), summarize, avgcty = mean(cty))
 ddply(data, .(drv), transform, avgcty = mean(cty))
-
-
-
