@@ -6,8 +6,8 @@ public class Exercicio_06 {
 
         int x = 10, y = 5;
 
-        System.out.println("x > y : " + (x > y));
-        System.out.println("x < y : " + (x < y));
+        System.out.println("x >  y : " + (x > y));
+        System.out.println("x <  y : " + (x < y));
         System.out.println("x >= y : " + (x >= y));
         System.out.println("x <= y : " + (x <= y));
         System.out.println("x == y : " + (x == y));
