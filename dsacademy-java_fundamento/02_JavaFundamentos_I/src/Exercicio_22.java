@@ -15,6 +15,8 @@ public class Exercicio_22 {
 
         System.out.println("dsacademy é incrível!!!".toUpperCase());
 
+        System.out.println("dsacademy é incrível!!!".toLowerCase());
+
         // Procurando a primeira ocorrência de uma susbtring em uma sring
 
         int primeiraOcorrencia = anotherPalindrome.indexOf("ga");

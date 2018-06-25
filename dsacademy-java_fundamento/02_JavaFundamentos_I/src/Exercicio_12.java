@@ -9,7 +9,7 @@ public class Exercicio_12 {
         int idade;
 
         /*
-            Sempre executa o bloco de repetição ao menos 1 vez pois o este está no Final
+            Sempre executa o bloco de repetição ao menos 1 vez pois o teste está no Final
 
             No caso de estrutura de repetiçãp While, o teste está no início, portanto
             o bloco de repetição pode não ser executado dependendo da condição

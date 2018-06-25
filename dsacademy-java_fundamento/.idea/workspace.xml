@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f091eeb5-a255-4b37-942c-b5c2916c74ed" name="Default" comment="" />
+    <list default="true" id="f091eeb5-a255-4b37-942c-b5c2916c74ed" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JavaInroducao/01_JavaInroducao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JavaInroducao/01_JavaInroducao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JavaFundamentos_I/02_JavaFundamentos_I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JavaFundamentos_I/02_JavaFundamentos_I.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JavaFundamentos_II/03_JavaFundamentos_II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/03_JavaFundamentos_II.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,17 +26,7 @@
     <favorites_list name="DSAcademyJavaFundamentosReview" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercicio_10.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,13 +54,17 @@
         <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_05.java" />
         <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_06.java" />
         <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_09.java" />
+        <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_12.java" />
+        <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_15.java" />
+        <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_17.java" />
+        <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_18.java" />
+        <option value="$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_22.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1436" />
-    <option name="y" value="68" />
-    <option name="width" value="1346" />
+    <option name="x" value="-7" />
+    <option name="width" value="1378" />
     <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,10 +87,26 @@
               <item name="02_JavaFundamentos_I" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dsacademy-java_fundamento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_JavaFundamentos_I" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio_19.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="dsacademy-java_fundamento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_JavaFundamentos_II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsacademy-java_fundamento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_JavaFundamentos_II" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
@@ -97,15 +119,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_172/lib" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,29 +140,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercicio_10">
-    <configuration name="Exercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_06" />
+  <component name="RunManager" selected="Application.Exercicio_24">
+    <configuration name="Exercicio_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_20" />
       <module name="02_JavaFundamentos_I" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Exercicio_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_07" />
+    <configuration name="Exercicio_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_21" />
       <module name="02_JavaFundamentos_I" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Exercicio_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_08" />
+    <configuration name="Exercicio_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_22" />
       <module name="02_JavaFundamentos_I" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Exercicio_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_09" />
+    <configuration name="Exercicio_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_23" />
       <module name="02_JavaFundamentos_I" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Exercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio_10" />
+    <configuration name="Exercicio_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio_24" />
       <module name="02_JavaFundamentos_I" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -187,19 +208,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Exercicio_06" />
-      <item itemvalue="Application.Exercicio_07" />
-      <item itemvalue="Application.Exercicio_08" />
-      <item itemvalue="Application.Exercicio_09" />
-      <item itemvalue="Application.Exercicio_10" />
+      <item itemvalue="Application.Exercicio_20" />
+      <item itemvalue="Application.Exercicio_21" />
+      <item itemvalue="Application.Exercicio_22" />
+      <item itemvalue="Application.Exercicio_23" />
+      <item itemvalue="Application.Exercicio_24" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio_10" />
-        <item itemvalue="Application.Exercicio_09" />
-        <item itemvalue="Application.Exercicio_08" />
-        <item itemvalue="Application.Exercicio_07" />
-        <item itemvalue="Application.Exercicio_06" />
+        <item itemvalue="Application.Exercicio_24" />
+        <item itemvalue="Application.Exercicio_23" />
+        <item itemvalue="Application.Exercicio_22" />
+        <item itemvalue="Application.Exercicio_21" />
+        <item itemvalue="Application.Exercicio_20" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +281,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1436" y="68" width="1346" height="745" extended-state="0" />
+    <frame x="-7" y="0" width="1378" height="745" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,25 +291,25 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43238994" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3553459" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35639098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2503671" />
       <window_info id="Learn" order="2" weight="0.32970452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2496112" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32970452" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -296,6 +317,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="Commit de Ajuste de Modulos" />
     <MESSAGE value="Commit de Ajuste de Modulos/Teste" />
     <MESSAGE value="Commit de Ajuste de Modulos/Teste Recriando um Modulo" />
@@ -327,6 +351,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_00.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -343,20 +381,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_JavaFundamentosII/03_JavaFundamentosII.iml" />
     <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_00.java" />
-    <entry file="file://$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_00.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -423,13 +447,151 @@
     <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JavaFundamentos_I/src/Exercicio_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1337#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <last-edited>lib</last-edited>
@@ -445,6 +607,18 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>02_JavaFundamentos_I</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

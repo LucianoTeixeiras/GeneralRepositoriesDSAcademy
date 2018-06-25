@@ -4,7 +4,7 @@ public class Exercicio_17 {
 
     public static void main(String[] args) {
 
-        String mes = "Agosto";
+        String mes = "Junho";
 
         switch (mes){
 

@@ -5,7 +5,7 @@ public class Exercicio_15 {
     public static void main(String[] args) {
 
         int mes = 2;
-        int ano = 2000;
+        int ano = 2024;
         int numeroDias = 0;
 
         switch (mes){
