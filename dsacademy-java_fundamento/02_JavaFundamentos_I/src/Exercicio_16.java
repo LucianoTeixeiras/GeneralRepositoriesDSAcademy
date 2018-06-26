@@ -8,7 +8,7 @@ public class Exercicio_16 {
         int ano = 1900;
         int numeroDias = 0;
 
-        switch (mes){
+        switch (mes) {
 
             case 1:
             case 3:

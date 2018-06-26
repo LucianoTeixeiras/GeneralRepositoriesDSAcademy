@@ -17,11 +17,11 @@ public class Exercicio_13 {
             3)  Incremeno (ou decremento) da variável de controle
          */
 
-        for (int i = 0; i <= 10; i++){
+        for (int i = 0; i <= 10; i++) {
             System.out.println(num + " * " + i + " = " + num * i);
         }
 
-        for (int i = 10; i >= 0; i--){
+        for (int i = 10; i >= 0; i--) {
             System.out.println(num + " * " + i + " = " + num * i);
         }
 

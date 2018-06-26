@@ -3,13 +3,13 @@ public class Exercicio_02 {
     //Tipos de Dados Primiti vos
 
     public static void main(String[] args) {
-         long num1 = 33000;
+        long num1 = 33000;
 
-         float num2 = 3432.0F;
+        float num2 = 3432.0F;
 
-         System.out.println(num1+num2);
+        System.out.println(num1 + num2);
 
-         boolean primeiroCurso = false;
+        boolean primeiroCurso = false;
 
         System.out.println(primeiroCurso);
 
@@ -21,7 +21,7 @@ public class Exercicio_02 {
 
         int num3 = 0, num4 = 1, num5 = 5;
 
-        System.out.println(num3+num4+num5);
+        System.out.println(num3 + num4 + num5);
 
     }
 }

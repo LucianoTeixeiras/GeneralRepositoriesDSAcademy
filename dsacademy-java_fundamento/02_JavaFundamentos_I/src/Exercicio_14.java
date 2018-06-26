@@ -10,7 +10,7 @@ public class Exercicio_14 {
         System.out.println("Tabuada de qual Número");
         int num = reader.nextInt();
 
-        for (int i = 0; i <= 10; i++){
+        for (int i = 0; i <= 10; i++) {
 
             if (i % 2 == 1)
                 continue;

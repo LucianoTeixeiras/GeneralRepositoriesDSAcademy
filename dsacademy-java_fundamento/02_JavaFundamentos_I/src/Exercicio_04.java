@@ -16,8 +16,8 @@ public class Exercicio_04 {
         System.out.println(3 + 5 - 2);
 
         System.out.println(3 - 3 + 1 * 10); // = 3 - 3 + 10
-                                            // = 0 + 10
-                                            // = 10
+        // = 0 + 10
+        // = 10
 
     }
 }

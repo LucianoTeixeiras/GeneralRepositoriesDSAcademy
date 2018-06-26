@@ -36,7 +36,7 @@ public class Exercicio_22 {
         // Susbtituindo caracteres e realizando encadeamento
 
         String frase = "Seja-bem-vindo-ao-curso-de-java-fundamentos!!!"
-                .replace('-',' ')
+                .replace('-', ' ')
                 .replaceAll(" ", "  ")
                 .replaceFirst("ja", "JA");
 

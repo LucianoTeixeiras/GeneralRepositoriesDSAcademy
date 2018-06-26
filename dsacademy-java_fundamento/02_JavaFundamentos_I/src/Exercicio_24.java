@@ -15,14 +15,14 @@ public class Exercicio_24 {
         cal.setTime(new Date());
 
         int dia = cal.get(Calendar.DATE);
-        int mes = cal.get(Calendar.MONTH)+1;
+        int mes = cal.get(Calendar.MONTH) + 1;
         int ano = cal.get(Calendar.YEAR);
 
         System.out.println(dia + "/" + mes + "/" + ano);
 
         // ALterar o ano de uma data (da mesma forma outros campos pode ser manipulados
 
-        cal.set(Calendar.YEAR,2028);
+        cal.set(Calendar.YEAR, 2028);
         System.out.println(cal.toInstant().toString());
 
         // Manipulando datas

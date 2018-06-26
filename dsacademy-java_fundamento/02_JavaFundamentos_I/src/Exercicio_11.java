@@ -12,7 +12,7 @@ public class Exercicio_11 {
         int num = reader.nextInt();
 
         int i = 1;
-        while (i <= 10){
+        while (i <= 10) {
             System.out.println(num + " * " + i + " = " + num * i);
             i++;
         }

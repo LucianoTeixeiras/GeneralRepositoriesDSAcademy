@@ -6,7 +6,7 @@ public class Exercicio_17 {
 
         String mes = "Junho";
 
-        switch (mes){
+        switch (mes) {
 
             case "Janeiro":
                 System.out.println("Janeiro");
@@ -32,7 +32,7 @@ public class Exercicio_17 {
                 System.out.println("Novembro");
             case "Dezembro":
                 System.out.println("Dezembro");
-            break;
+                break;
             default:
                 System.out.println("Mês Inválido!!!");
         }

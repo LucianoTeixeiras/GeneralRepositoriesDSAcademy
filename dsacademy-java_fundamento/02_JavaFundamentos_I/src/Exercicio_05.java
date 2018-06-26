@@ -9,7 +9,7 @@ public class Exercicio_05 {
 
         System.out.println(a);
 
-        a =+ 10;
+        a = +10;
         a -= 20;
 
         System.out.println(a);

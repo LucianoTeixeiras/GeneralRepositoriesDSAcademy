@@ -4,10 +4,10 @@ public class Exercicio_10 {
 
     public static void main(String[] args) {
 
-        int idade =70;
+        int idade = 70;
         float preco = 200;
 
-        if (idade >= 60){
+        if (idade >= 60) {
 
             //preco = preco / 100 * 90;
             float precoDesconto = preco / 100 * 90;

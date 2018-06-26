@@ -1,8 +1,8 @@
 /*
-* Create by Luciano Teixeira on 02/05/2018.
-* Conversões entre tipos
-* Referência: https://docs.oracle.com/javase/specs/jls/se8/html/jls-5.html
-* */
+ * Create by Luciano Teixeira on 02/05/2018.
+ * Conversões entre tipos
+ * Referência: https://docs.oracle.com/javase/specs/jls/se8/html/jls-5.html
+ * */
 
 public class Exercicio_00 {
 
@@ -29,7 +29,7 @@ public class Exercicio_00 {
 
         // String para Double
         double salarioMuitoGrande = Double.parseDouble("123456.78");
-        int salarioTruncado = (int)12345.67F; //Casting
+        int salarioTruncado = (int) 12345.67F; //Casting
 
         // Um int pode receber um short? Sim!
         short meuShort = 10;
@@ -41,7 +41,7 @@ public class Exercicio_00 {
 
         // E se quisermos fazer uma conversão explícita
         meuInteiro = 2000000000;
-        meuShort = (short)meuInteiro;
+        meuShort = (short) meuInteiro;
         System.out.println("Aqui => " + meuShort);
 
     }

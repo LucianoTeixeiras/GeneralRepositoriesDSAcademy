@@ -11,13 +11,13 @@ public class Exercicio_19 {
         // 3 - Multiplicação
         // 4 - Divisão
 
-        calcular(10,TipoOperacao.ADICAO,15);
+        calcular(10, TipoOperacao.ADICAO, 15);
 
     }
 
     // Função
 
-    private static void calcular(int operando1, TipoOperacao tipoOperacao, int operando2){
+    private static void calcular(int operando1, TipoOperacao tipoOperacao, int operando2) {
 
         if (tipoOperacao == TipoOperacao.ADICAO)
             System.out.println(operando1 + operando2);
@@ -31,6 +31,6 @@ public class Exercicio_19 {
     }
 }
 
-enum TipoOperacao{
+enum TipoOperacao {
     ADICAO, SUBTRACAO, MULTIPLICACAO, DIVISAO
 }

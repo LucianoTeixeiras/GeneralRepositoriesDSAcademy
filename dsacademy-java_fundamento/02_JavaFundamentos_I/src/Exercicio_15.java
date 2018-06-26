@@ -8,7 +8,7 @@ public class Exercicio_15 {
         int ano = 2024;
         int numeroDias = 0;
 
-        switch (mes){
+        switch (mes) {
 
             case 1:
                 numeroDias = 31;
@@ -17,7 +17,7 @@ public class Exercicio_15 {
                 if (((ano % 4 == 0) && !(ano % 100 == 0)) || (ano % 400 == 0))
                     numeroDias = 29;
 
-                    numeroDias = 28;
+                numeroDias = 28;
                 break;
             case 3:
                 numeroDias = 31;
