@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f091eeb5-a255-4b37-942c-b5c2916c74ed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_05.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +23,7 @@
       <file leaf-file-name="Exercicio_07.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="289">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
@@ -291,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525292807125</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit exercicio 07 cap 3">
+      <created>1530297954359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530297954359</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,7 +311,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32861635" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26590538" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26590538" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32789558" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -340,7 +344,8 @@
     <MESSAGE value="Commit de Ajuste de Modulos/Teste" />
     <MESSAGE value="Commit de Ajuste de Modulos/Teste Recriando um Modulo" />
     <MESSAGE value="Commit de Ajuste de Modulos/Teste Recriando um Modulo Novamente" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit de Ajuste de Modulos/Teste Recriando um Modulo Novamente" />
+    <MESSAGE value="Commit exercicio 07 cap 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit exercicio 07 cap 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -640,7 +645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
