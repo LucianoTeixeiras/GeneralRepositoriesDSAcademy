@@ -4,5 +4,14 @@ public class Exercicio_05 {
 
         // Obtem uma lista de números, soma e executa
 
+        int total = 0;
+        for (String arq : args){
+            total += Integer.parseInt(arq);
+        }
+
+        System.out.println("A quantidade de parametros e: " + args.length);
+        System.out.println("O total e: " + total);
+
+        System.out.println("A media e: " + total / args.length);
     }
 }
