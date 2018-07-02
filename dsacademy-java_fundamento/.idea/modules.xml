@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01_JavaInroducao/01_JavaInroducao.iml" filepath="$PROJECT_DIR$/01_JavaInroducao/01_JavaInroducao.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_JavaFundamentos_I/02_JavaFundamentos_I.iml" filepath="$PROJECT_DIR$/02_JavaFundamentos_I/02_JavaFundamentos_I.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_JavaFundamentos_II/03_JavaFundamentos_II.iml" filepath="$PROJECT_DIR$/03_JavaFundamentos_II/03_JavaFundamentos_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_ProgramacaoOO/04_ProgramacaoOO.iml" filepath="$PROJECT_DIR$/04_ProgramacaoOO/04_ProgramacaoOO.iml" />
     </modules>
   </component>
 </project>
