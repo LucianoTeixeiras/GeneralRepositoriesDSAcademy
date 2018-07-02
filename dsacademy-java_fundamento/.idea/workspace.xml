@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f091eeb5-a255-4b37-942c-b5c2916c74ed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_10_Old.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_JavaFundamentos_II/src/Exercicio_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f091eeb5-a255-4b37-942c-b5c2916c74ed" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -803,11 +791,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>02_JavaFundamentos_I</last-edited>
+          <last-edited>04_ProgramacaoOO</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
