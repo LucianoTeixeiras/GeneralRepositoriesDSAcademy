@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Introducao/01_Introducao.iml" filepath="$PROJECT_DIR$/01_Introducao/01_Introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Fundamentos_I/02_Fundamentos_I.iml" filepath="$PROJECT_DIR$/02_Fundamentos_I/02_Fundamentos_I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Fundamenos_II/03_Fundamenos_II.iml" filepath="$PROJECT_DIR$/03_Fundamenos_II/03_Fundamenos_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_ProgramacaoOO/04_ProgramacaoOO.iml" filepath="$PROJECT_DIR$/04_ProgramacaoOO/04_ProgramacaoOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.javaFundamentos.iml" filepath="$PROJECT_DIR$/br.com.javaFundamentos.iml" />
+    </modules>
+  </component>
+</project>
