@@ -2,9 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f147bc3-3e98-4187-8adc-7c0f7021b4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Luciano.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_ProgramacaoOO/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/luciano_t_da_silva.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Introducao/src/Capitulo_01/Exercicio_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/05_ProgramacaoOO_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Fundamentos_I/src/Exercicio_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_00.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_10_Old.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_10_Old.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ProgramacaoOO/04_ProgramacaoOO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/04_ProgramacaoOO_01/04_ProgramacaoOO_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ProgramacaoOO/src/Pessoa.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +63,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Pessoa.java">
+        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Pessoa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="391">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Conta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Quiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_08.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio01.java">
+        <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_09.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -43,23 +128,39 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Pessoa.java" />
         <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio01.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio_01.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Capitulo4/Exercicio_01.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_02.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_03.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_04.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_06.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_07.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_08.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_09.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Pessoa.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_01.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_05.java" />
+        <option value="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_00.java" />
+        <option value="$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_08.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Quiz.java" />
+        <option value="$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Conta.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1928" />
-    <option name="height" value="1060" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -67,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,25 +178,52 @@
             <path>
               <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
               <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="04_ProgramacaoOO" type="462c0819:PsiDirectoryNode" />
+              <item name="04_ProgramacaoOO_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
               <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="04_ProgramacaoOO" type="462c0819:PsiDirectoryNode" />
+              <item name="04_ProgramacaoOO_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="04_ProgramacaoOO_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Capitulo_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Capitulo_05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545003317989" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545148982524" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,17 +237,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio01" />
-      <module name="04_ProgramacaoOO" />
+  <component name="RunManager" selected="Application.Exercicio_09">
+    <configuration name="Exercicio_00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_03.Exercicio_00" />
+      <module name="03_Fundamenos_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_04.Exercicio_05" />
+      <module name="04_ProgramacaoOO_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_04.Exercicio_07" />
+      <module name="04_ProgramacaoOO_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_03.Exercicio_08" />
+      <module name="03_Fundamenos_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_04.Exercicio_09" />
+      <module name="04_ProgramacaoOO_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio01" />
+        <item itemvalue="Application.Exercicio_09" />
+        <item itemvalue="Application.Exercicio_07" />
+        <item itemvalue="Application.Exercicio_00" />
+        <item itemvalue="Application.Exercicio_08" />
+        <item itemvalue="Application.Exercicio_05" />
       </list>
     </recent_temporary>
   </component>
@@ -135,19 +324,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1060" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934928" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4592934" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -155,6 +344,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32934928" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -165,18 +355,372 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="90">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio01.java">
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Capitulo4/Exercicio01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Capitulo4/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Capitulo4/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Capitulo4/Exercicio_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/PrgramacaoOO_02/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO/src/Capitulo4/Exercicio_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Introducao/src/Capitulo_01/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_10_Old.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Exercicio_08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Quiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Exercicio_09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
