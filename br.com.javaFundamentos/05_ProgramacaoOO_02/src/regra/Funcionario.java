@@ -1,9 +1,14 @@
-package Capitulo_05;
+package regra;
 
-public class Funcionario extends Pessoa{
+import regra.Pessoa;
+
+public class Funcionario extends Pessoa {
+
+    private static final int TAXA_ADMINISTRACAO_BONUS = 50;
+    private static final int BONUS_PERCENTUAL = 2;
 
     private String cargo;
-    private float salario;
+    protected float salario;
 
     public Funcionario() {
     }
@@ -28,5 +33,9 @@ public class Funcionario extends Pessoa{
 
     public void setSalario(float salario) {
         this.salario = salario;
+    }
+
+    public float getBonus(){
+        return (this.salario - TAXA_ADMINISTRACAO_BONUS) / 100 * BONUS_PERCENTUAL;
     }
 }

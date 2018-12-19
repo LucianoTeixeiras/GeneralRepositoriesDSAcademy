@@ -1,4 +1,4 @@
-package Capitulo_05;
+package regra;
 
 public class Pessoa {
 
@@ -18,7 +18,7 @@ public class Pessoa {
         this.sobrenome = sobrenome;
     }
 
-    String getNomeCompleto(){
+    public String getNomeCompleto(){
         return nome + " " + sobrenome;
     }
 

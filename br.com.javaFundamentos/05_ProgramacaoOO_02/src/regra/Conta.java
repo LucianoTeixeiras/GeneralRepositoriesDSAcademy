@@ -1,4 +1,4 @@
-package Capitulo_05;
+package regra;
 
 public class Conta {
 

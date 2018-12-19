@@ -1,5 +1,7 @@
 package Capitulo_05;
 
+import regra.Funcionario;
+
 public class Exercicio_01 {
 
     public static void main(String[] args) {
