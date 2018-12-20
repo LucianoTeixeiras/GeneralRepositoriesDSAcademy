@@ -10,12 +10,21 @@ public class Funcionario extends Pessoa {
     private String cargo;
     protected float salario;
 
-    public Funcionario() {
+    private Conta conta;
+
+    public Funcionario(){
+        this.conta = new Conta();
     }
 
     public Funcionario(String nome, String sobrenome, String cargo, float salario) {
         super(nome, sobrenome);
         this.cargo = cargo;
+        this.salario = salario;
+    }
+
+    public Funcionario(String nome, String sobrenome, String cargo, float salario, Conta conta) {
+        this(nome, sobrenome, cargo, salario);
+        this.conta = conta;
         this.salario = salario;
     }
 
@@ -37,5 +46,13 @@ public class Funcionario extends Pessoa {
 
     public float getBonus(){
         return (this.salario - TAXA_ADMINISTRACAO_BONUS) / 100 * BONUS_PERCENTUAL;
+    }
+
+    public Conta getConta() {
+        return conta;
+    }
+
+    public void setConta(Conta conta) {
+        this.conta = conta;
     }
 }

@@ -1,6 +1,8 @@
 package regra;
 
-public class Executivo extends Funcionario {
+import interfaces.Palestrante;
+
+public class Executivo extends Funcionario implements Palestrante {
 
     private static final int BONUS_PERCENTUAL = 10;
 
@@ -8,7 +10,13 @@ public class Executivo extends Funcionario {
         super(nome, sobrenome, cargo, salario);
     }
 
+    @Override
     public float getBonus() {
         return this.salario / 100 * BONUS_PERCENTUAL;
+    }
+
+    @Override
+    public float getBonusPalestras() {
+        return 3000;
     }
 }

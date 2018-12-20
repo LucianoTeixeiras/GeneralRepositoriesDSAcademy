@@ -3,16 +3,18 @@ package regra;
 public class Conta {
 
     public Conta(){
-        saldo = 15;
+        saldo = 5;
     }
 
+/*
     public Conta(String titular){
         this();
         this.titular = titular;
         //saldo = 10;
     }
+*/
 
-    public String titular;
+    //public String titular;
     private float saldo;
 
     public float getSaldo() {
