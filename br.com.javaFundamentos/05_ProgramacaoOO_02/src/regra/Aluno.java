@@ -27,4 +27,14 @@ public class Aluno extends Pessoa implements Palestrante {
     public float getBonusPalestras() {
         return 0;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Aluno) {
+            return this.numeroMatricula == ((Aluno) obj).getNumeroMatricula() &&
+                    this.getNome().equals(((Aluno) obj).getNome());
+        }else {
+            return false;
+        }
+    }
 }
