@@ -2,24 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f147bc3-3e98-4187-8adc-7c0f7021b4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/interfaces/Palestrante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Consultor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Instrutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Palestra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Palestra2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Pato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Executivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Executivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/05_ProgramacaoOO_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/05_ProgramacaoOO_02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Pessoa.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Pessoa.java" />
         <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio01.java" />
         <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Exercicio_01.java" />
         <option value="$PROJECT_DIR$/04_ProgramacaoOO/src/Capitulo4/Exercicio_01.java" />
@@ -89,11 +83,19 @@
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Consultor.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Executivo.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Instrutor.java" />
-        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Palestra2.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_09.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_10.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_11.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_12.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Pessoa.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_13.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Animal.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Pato.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Gato.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Cachorro.java" />
+        <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_14.java" />
       </list>
     </option>
   </component>
@@ -111,8 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,16 +156,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545332947025" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545505456734" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="regranew" />
       <recent name="Capitulo_05" />
       <recent name="regra" />
     </key>
@@ -182,59 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercicio_10">
-    <configuration name="Exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_05" />
-      <module name="05_ProgramacaoOO_02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_06" />
-      <module name="05_ProgramacaoOO_02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_07" />
-      <module name="05_ProgramacaoOO_02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_09" />
-      <module name="05_ProgramacaoOO_02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio_14">
     <configuration name="Exercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_10" />
       <module name="05_ProgramacaoOO_02" />
@@ -248,13 +199,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_11" />
+      <module name="05_ProgramacaoOO_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_12" />
+      <module name="05_ProgramacaoOO_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_13" />
+      <module name="05_ProgramacaoOO_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_14" />
+      <module name="05_ProgramacaoOO_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio_14" />
+        <item itemvalue="Application.Exercicio_13" />
+        <item itemvalue="Application.Exercicio_12" />
+        <item itemvalue="Application.Exercicio_11" />
         <item itemvalue="Application.Exercicio_10" />
-        <item itemvalue="Application.Exercicio_09" />
-        <item itemvalue="Application.Exercicio_07" />
-        <item itemvalue="Application.Exercicio_06" />
-        <item itemvalue="Application.Exercicio_05" />
       </list>
     </recent_temporary>
   </component>
@@ -277,9 +280,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1456" height="886" extended-state="6" />
+    <frame x="-3" y="0" width="1372" height="738" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25143266" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2689394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -288,7 +291,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934928" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37715805" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19674797" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,7 +299,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32934928" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32802126" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32520324" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -327,55 +330,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_Fundamenos_II/src/Capitulo_03/Exercicio_05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -554,16 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Pessoa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -717,24 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_09.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -745,17 +671,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_10.java">
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="360">
+          <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Pato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Gato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/regranew/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

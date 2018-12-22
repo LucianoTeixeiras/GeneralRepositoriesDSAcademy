@@ -1,6 +1,6 @@
 package regra;
 
-public class Pessoa {
+public abstract class Pessoa {
 
     String nome;
     String sobrenome;
