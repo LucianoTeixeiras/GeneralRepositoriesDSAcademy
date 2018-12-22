@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f147bc3-3e98-4187-8adc-7c0f7021b4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/interfaces/Palestrante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Consultor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Instrutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Palestra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Palestra2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/06_JavaCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Executivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Executivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_ProgramacaoOO_02/src/regra/Funcionario.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +41,7 @@
         <option value="Luciano Teixeira &lt;luciano.teixeiras@gmail.com&gt;" />
       </list>
     </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -94,6 +91,7 @@
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_09.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_10.java" />
         <option value="$PROJECT_DIR$/05_ProgramacaoOO_02/src/Capitulo_05/Exercicio_11.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_01.java" />
       </list>
     </option>
   </component>
@@ -111,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -123,43 +120,17 @@
             <path>
               <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
               <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Capitulo_05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="05_ProgramacaoOO_02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="regra" type="462c0819:PsiDirectoryNode" />
+              <item name="06_JavaCollections" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545332947025" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545387486162" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
@@ -182,13 +153,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercicio_10">
-    <configuration name="Exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_05.Exercicio_05" />
-      <module name="05_ProgramacaoOO_02" />
+  <component name="RunManager" selected="Application.Exercicio_01">
+    <configuration name="Exercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_01" />
+      <module name="06_JavaCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Capitulo_05.*" />
+          <option name="PATTERN" value="Capitulo_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio_01" />
         <item itemvalue="Application.Exercicio_10" />
         <item itemvalue="Application.Exercicio_09" />
         <item itemvalue="Application.Exercicio_07" />
         <item itemvalue="Application.Exercicio_06" />
-        <item itemvalue="Application.Exercicio_05" />
       </list>
     </recent_temporary>
   </component>
@@ -278,8 +249,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25143266" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25501433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -294,8 +266,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32934928" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007163" side_tool="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49928367" weight="0.32934928" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32802126" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -327,13 +299,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Exercicio_08.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -756,6 +721,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
         </state>
       </provider>
     </entry>
