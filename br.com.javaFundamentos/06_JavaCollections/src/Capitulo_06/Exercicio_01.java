@@ -32,5 +32,26 @@ public class Exercicio_01 {
                 .append(precoFormacao1);
 
         System.out.println(sb3.toString());
+
+        // Perfrmance
+        // Armazenar todos os números entre 1 e 10000
+
+        long ti = System.currentTimeMillis();
+        String resultadoStr = "";
+        for (int i = 0; i < 50000; i++) {
+            resultadoStr = resultadoStr + " " + i;
+        }
+
+        long tf = System.currentTimeMillis();
+        System.out.println("Tempo de concatenação: " + (tf - ti));
+
+        ti = System.currentTimeMillis();
+        StringBuilder resultadoSb = new StringBuilder(200000);
+        for (int i = 0; i < 50000; i++) {
+            resultadoSb.append(" ").append(i);
+        }
+
+        tf = System.currentTimeMillis();
+        System.out.println("Tempo de concatenação com StringBuilder: " + (tf - ti));
     }
 }
