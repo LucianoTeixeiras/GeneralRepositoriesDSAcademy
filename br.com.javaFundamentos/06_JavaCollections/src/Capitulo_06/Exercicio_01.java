@@ -38,7 +38,7 @@ public class Exercicio_01 {
 
         long ti = System.currentTimeMillis();
         String resultadoStr = "";
-        for (int i = 0; i < 50000; i++) {
+        for (int i = 0; i < 500000; i++) {
             resultadoStr = resultadoStr + " " + i;
         }
 
@@ -47,7 +47,7 @@ public class Exercicio_01 {
 
         ti = System.currentTimeMillis();
         StringBuilder resultadoSb = new StringBuilder(200000);
-        for (int i = 0; i < 50000; i++) {
+        for (int i = 0; i < 500000; i++) {
             resultadoSb.append(" ").append(i);
         }
 
