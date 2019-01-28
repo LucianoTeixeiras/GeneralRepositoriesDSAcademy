@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="981053c4-d7d1-451c-8b0b-26a4b261869c" name="Default Changelist" comment="">
+    <list default="true" id="981053c4-d7d1-451c-8b0b-26a4b261869c" name="Default Changelist" comment="Commit Visualuzação em D3js&#10;Criação de Gráficos. Todos as pastas e arquivos.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -114,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1548631893612</updated>
       <workItem from="1548631896731" duration="2899000" />
-      <workItem from="1548684296001" duration="5523000" />
+      <workItem from="1548684296001" duration="5608000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Visualuzação em D3js">
       <created>1548636118235</created>
@@ -123,11 +123,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548636118235</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Visualuzação em D3js&#10;Criação de Gráficos">
+      <created>1548701266739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548701266740</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8422000" />
+    <option name="totallyTimeSpent" value="8507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="886" extended-state="6" />
@@ -158,7 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Visualuzação em D3js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Visualuzação em D3js" />
+    <MESSAGE value="Commit Visualuzação em D3js&#10;Criação de Gráficos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Visualuzação em D3js&#10;Criação de Gráficos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/VisualizacaoDeDadosD3JS/array.html">
