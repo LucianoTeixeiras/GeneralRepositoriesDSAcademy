@@ -7,10 +7,10 @@ public class Exercicio_06 {
     public static void main(String[] args) {
 
         ArrayList<Pessoa> pessoas = new ArrayList<Pessoa>();
-        Aluno joao = new Aluno("João", 10);
+        Aluno joao = new Aluno(1, "João", 10);
         pessoas.add(joao);
 
-        pessoas.add(new Aluno("José",6));
+        pessoas.add(new Aluno(1, "José",6));
         pessoas.add(new Instrutor(1,"Luciano",10000));
 
         Pessoa p = pessoas.get(0);

@@ -3,7 +3,7 @@
   <component name="Kotlin2JsCompilerArguments">
     <option name="sourceMapEmbedSources" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="10.0.2+13 (2)" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="10.0.2+13" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
