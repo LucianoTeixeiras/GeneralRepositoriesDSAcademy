@@ -18,10 +18,6 @@ public class Aluno extends Pessoa {
         this.matricula = matricula;
     }
 
-    public Aluno(String nome, float nota) {
-        super();
-    }
-
     public float getNota() {
         return nota;
     }
@@ -45,6 +41,6 @@ public class Aluno extends Pessoa {
 
     @Override
     public boolean equals(Object obj) {
-        return this.getMatricula() == ((Aluno)obj.).getMatricula();
+        return this.getMatricula() == ((Aluno)obj).getMatricula();
     }
 }
