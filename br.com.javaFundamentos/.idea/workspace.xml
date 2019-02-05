@@ -4,9 +4,22 @@
     <list default="true" id="c78e7852-bf4f-42fc-87a8-0b150f0ee48c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/07_ArquivoBancoDeDadosRede/07_ArquivoBancoDeDadosRede.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/07_ArquivoBancoDeDadosRede/src/Exercicio_00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Bola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Boneca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Brinquedo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Cofre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/CofreRuim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Guardavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Pessoa.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,10 +49,12 @@
         </entry>
       </file>
     </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,6 +81,16 @@
         <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_13.java" />
         <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Aluno.java" />
         <option value="$PROJECT_DIR$/07_ArquivoBancoDeDadosRede/src/Exercicio_00.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_14.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_15.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/CofreRuim.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Livro.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Boneca.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_16.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Guardavel.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Brinquedo.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Cofre.java" />
+        <option value="$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio17.java" />
       </list>
     </option>
   </component>
@@ -85,6 +110,8 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,8 +132,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549364631852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549326523972" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Luciano\Documents\GitHub\GeneralRepositoriesDSAcademy\br.com.javaFundamentos\06_JavaCollections\src\Capitulo_06" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Capitulo_06" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,48 +156,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercicio_13">
-    <configuration name="Exercicio_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_07" />
-      <module name="06_JavaCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_10" />
-      <module name="06_JavaCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_11" />
-      <module name="06_JavaCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_12" />
+  <component name="RunManager" selected="Application.Exercicio17">
+    <configuration name="Exercicio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio17" />
       <module name="06_JavaCollections" />
       <extension name="coverage">
         <pattern>
@@ -186,13 +183,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_14" />
+      <module name="06_JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_15" />
+      <module name="06_JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Capitulo_06.Exercicio_16" />
+      <module name="06_JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio17" />
+        <item itemvalue="Application.Exercicio_16" />
+        <item itemvalue="Application.Exercicio_15" />
+        <item itemvalue="Application.Exercicio_14" />
         <item itemvalue="Application.Exercicio_13" />
-        <item itemvalue="Application.Exercicio_12" />
-        <item itemvalue="Application.Exercicio_11" />
-        <item itemvalue="Application.Exercicio_10" />
-        <item itemvalue="Application.Exercicio_07" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +247,9 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17621776" />
+    <frame x="-4" y="-4" width="1928" height="1060" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18530351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -219,7 +258,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893504" visible="true" weight="0.39644012" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893504" visible="true" weight="0.39596602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,7 +266,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50106496" side_tool="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32934928" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32908705" />
       <window_info anchor="bottom" id="JProfiler" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -299,9 +338,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="688">
           <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -311,7 +364,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Instrutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="512">
           <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
           <folding>
             <element signature="e#337#338#0" expanded="true" />
@@ -328,7 +381,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="416">
           <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -336,28 +389,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_11.java">
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1092#1101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="272">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -366,19 +401,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/CofreRuim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Guardavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Brinquedo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Boneca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Bola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Livro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -394,6 +503,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Cofre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JavaCollections/src/Capitulo_06/Exercicio17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
         </state>
       </provider>
     </entry>

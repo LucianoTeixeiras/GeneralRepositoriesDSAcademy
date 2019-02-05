@@ -1,6 +1,6 @@
 package Capitulo_06;
 
-public abstract class Pessoa {
+public abstract class Pessoa implements Guardavel {
 
     private String nome;
 
