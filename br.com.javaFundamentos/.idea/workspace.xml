@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="3f29f35b-be2d-43c3-9061-4f84a671fe19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/out/production/capitulo_07/arquivo_de_teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/out/production/capitulo_07/arquivo_de_teste_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/src/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/src/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/src/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/src/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/src/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/src/Exercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/src/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/src/Exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/src/Exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/src/Exercicio12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/src/Exercicio_00.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,12 +20,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileReader.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/capitulo_07/src/Exercicio12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+            <state relative-caret-position="320">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/capitulo_07/src/Exercicio01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -61,6 +78,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,22 +88,39 @@
             </path>
             <path>
               <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="capitulo_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="capitulo_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="capitulo_07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="br.com.javaFundamentos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="br.com.javaFundamentos" type="462c0819:PsiDirectoryNode" />
+              <item name="capitulo_07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550015746573" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550018460495" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Luciano\Documents\GitHub\GeneralRepositoriesDSAcademy\br.com.javaFundamentos\capitulo_07\src" />
       <recent name="C:\Users\luciano.t.da.silva\GitHub\GeneralRepositoriesDSAcademy\br.com.javaFundamentos\99_Teste\src" />
       <recent name="E:\Users\Luciano\Documents\GitHub\GeneralRepositoriesDSAcademy\br.com.javaFundamentos\07_ArquivoBancoDeDadosRede" />
     </key>
@@ -214,9 +249,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-4" y="-4" width="1928" height="1060" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,24 +298,30 @@
     <entry file="file://$PROJECT_DIR$/07_ArquivoBancoDeDadosRede/src/Exercicio03.java" />
     <entry file="file://$PROJECT_DIR$/07_ArquivoBancoDeDadosRede/src/Exercicio03_01.java" />
     <entry file="file://$PROJECT_DIR$/07_ArquivoBancoDeDadosRede/src/Exercicio02.java" />
-    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Quiz.java">
+    <entry file="file://$PROJECT_DIR$/02_Fundamentos_I/src/Capitulo_02/Quiz.java" />
+    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Quiz.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileReader.java" />
+    <entry file="file://$PROJECT_DIR$/capitulo_07/src/Exercicio03_01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="320">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_ProgramacaoOO_01/src/Capitulo_04/Quiz.java">
+    <entry file="file://$PROJECT_DIR$/capitulo_07/src/Exercicio12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="320">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileReader.java">
+    <entry file="file://$PROJECT_DIR$/capitulo_07/src/Exercicio01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+        <state relative-caret-position="368">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
