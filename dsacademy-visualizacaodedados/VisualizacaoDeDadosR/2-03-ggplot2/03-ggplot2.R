@@ -303,10 +303,13 @@ plot2 <- qplot(carat, price, data = diamonds, colour = cut)
 # Combina os 2 plots na mesma área
 grid.arrange(plot1, plot2, ncol = 1)
 
-
 # Facets com reshape
 library(reshape2)
+
+install.packages(c("plotly","ggplotly"))
+
 library(plotly)
+library(ggplotly)
 
 sp <- ggplot(tips, aes(x=total_bill, y=tip/total_bill)) + geom_point(shape=1)
 sp + facet_grid(sex ~ .)
