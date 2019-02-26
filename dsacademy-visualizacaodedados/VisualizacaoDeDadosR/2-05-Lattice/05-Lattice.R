@@ -136,7 +136,7 @@ library(vioplot)
 
 ### CONJUNTO DE DADOS NÃO ACESSÍVEL
 # Carregando os dados
-#ds = read.csv("http://www.math.smith.edu/r/data/help.csv")
+ds = read.csv("http://www.math.smith.edu/r/data/help.csv")
 #female = subset(ds, female==1)
 
 #with(female, vioplot(pcs[homeless==0], pcs[homeless==1],
