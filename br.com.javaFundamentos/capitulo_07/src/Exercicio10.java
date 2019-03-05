@@ -28,5 +28,4 @@ public class Exercicio10 {
             System.out.println("SQLException: " + ex.getMessage());
         }
     }
-
 }

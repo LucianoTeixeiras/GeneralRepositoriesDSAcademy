@@ -21,6 +21,5 @@ public class Exercicio05 {
         }  catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 }
