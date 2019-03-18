@@ -20,7 +20,7 @@ public class Exercicio10 {
         try {
                 con =
                     DriverManager.getConnection("jdbc:mysql://localhost/dsa?" +
-                            "user=suemar&password=dsa123&serverTimezone=UTC");
+                            "user=luciano&password=Lt123456&serverTimezone=UTC");
                 System.out.println("Conexão estabelecida");
 
         } catch (SQLException ex) {

@@ -19,7 +19,7 @@ public class Exercicio12 {
         try {
                 con =
                     DriverManager.getConnection("jdbc:mysql://localhost/dsa?" +
-                            "user=suemar&password=dsa123&serverTimezone=UTC");
+                            "user=luciano&password=Lt123456&serverTimezone=UTC");
 
 
                 // Criando uma tabela
@@ -47,7 +47,7 @@ public class Exercicio12 {
                 cmdInsert.close();
 
                 // Excluindo todos os filmes que possuem nota abaixo da média
-                String sqlDelete = "delete from movies where color <> 'Color'";
+                String sqlDelete = "delete from movie_metadata where color <> 'Color'";
                 PreparedStatement cmdDelete = con.prepareStatement(sqlDelete);
                 System.out.println("Total de filmes excluídos: " + cmdDelete.executeUpdate());
                 cmdDelete.close();

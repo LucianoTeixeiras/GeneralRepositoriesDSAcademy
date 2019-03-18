@@ -19,12 +19,12 @@ public class Exercicio11 {
         try {
                 con =
                     DriverManager.getConnection("jdbc:mysql://localhost/dsa?" +
-                            "user=suemar&password=dsa123&serverTimezone=UTC");
+                            "user=luciano&password=Lt123456&serverTimezone=UTC");
 
 
                 PreparedStatement cmd = con.prepareStatement(
                         "SELECT movie_title, title_year, imdb_score " +
-                                "FROM movies " +
+                                "FROM movie_metadata " +
                                 " where movie_facebook_likes > 150000"
                 );
 
