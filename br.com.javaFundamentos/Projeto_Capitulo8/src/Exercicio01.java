@@ -6,7 +6,6 @@ public class Exercicio01 {
 
     public static void main(String[] args) {
 
-
         new Thread(new Runnable() {
             @Override
             public void run() {
@@ -15,8 +14,5 @@ public class Exercicio01 {
         }).start();
 
         new Thread( () -> System.out.println("código executado dentro da thread")).start();
-
-
     }
-
 }

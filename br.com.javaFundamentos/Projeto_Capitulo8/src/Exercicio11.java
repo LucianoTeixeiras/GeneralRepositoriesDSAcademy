@@ -29,5 +29,4 @@ public class Exercicio11 {
                 .filter(i -> i.intValue() > 7) // Observe que agora a expressão lambda recebe um inteiro
                 .forEach(s -> System.out.println(s));
     }
-
 }

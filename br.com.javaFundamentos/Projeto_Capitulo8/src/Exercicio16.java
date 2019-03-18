@@ -22,7 +22,8 @@ public class Exercicio16 {
         IntStream stream1 = Arrays.stream(numeros);
 
         long ti = System.currentTimeMillis();
-        long totalElementos = stream1.parallel().filter(n -> n <= 1000).count();
+        //long totalElementos = stream1.filter(n -> n <= 1000).count(); // 591 milesegundos
+        long totalElementos = stream1.parallel().filter(n -> n <= 1000).count(); // 234 milesegundos
         long tf = System.currentTimeMillis();
         System.out.println("Tempo total: " + (tf - ti));
         System.out.println("Total de elementos: " + totalElementos);
@@ -39,5 +40,4 @@ public class Exercicio16 {
         // Para transformar uma stream paralela para sequencial
         // streamParalela.sequential();
     }
-
 }

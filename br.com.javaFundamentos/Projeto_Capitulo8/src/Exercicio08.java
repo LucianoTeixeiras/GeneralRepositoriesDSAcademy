@@ -16,7 +16,4 @@ public class Exercicio08 {
           .skip(1)  // Skip é uma operação intermediária
           .forEach(d -> System.out.println(d)); // ForEach é uma operação terminal
     }
-
-
-
 }

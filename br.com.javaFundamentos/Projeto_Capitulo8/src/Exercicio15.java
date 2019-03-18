@@ -1,6 +1,5 @@
 import models.Jogador;
 import models.Time;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -34,5 +33,4 @@ public class Exercicio15 {
              .flatMap(t -> t.obterJogadores().stream())
                 .forEach(j -> System.out.println(j.getNome()));
     }
-
 }
