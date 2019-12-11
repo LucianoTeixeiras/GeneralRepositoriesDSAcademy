@@ -28,21 +28,17 @@ library(ggplot2)
 library(scales)
 library(data.table)
 
-
 # Carregando os dados (Usando um timer para comparar o tempo de carregamento com diferentes funções)
 
 # Usando read.csv2()
-system.time(df_teste1 <- read.csv2("TemperaturasGlobais/TemperaturasGlobais.csv"))
-
+system.time(df_teste1 <- read.csv2("C:/Users/luciano.silva/Downloads/TemperaturasGlobais/TemperaturasGlobais.csv"))
 
 # Usando read.table()
-system.time(df_teste2 <- read.table("TemperaturasGlobais/TemperaturasGlobais.csv"))
-
+system.time(df_teste2 <- read.table("C:/Users/luciano.silva/Downloads/TemperaturasGlobais/TemperaturasGlobais.csv"))
 
 # Usando fread()
 ?fread
-system.time(df <- fread("TemperaturasGlobais/TemperaturasGlobais.csv"))
-
+system.time(df <- fread("C:/Users/luciano.silva/Downloads/TemperaturasGlobais/TemperaturasGlobais.csv"))
 
 # Criando subsets dos dados carregados
 cidadesBrasil <- subset(df, Country == 'Brazil')
@@ -73,7 +69,6 @@ crt <- subset(crt, Year %in% c(1796,1846,1896,1946,1996,2012))
 # Recife
 recf <- subset(cidadesBrasil, City=='Recife')
 recf <- subset(recf,Year %in% c(1796,1846,1896,1946,1996,2012))
-
 
 # Construindo os Plots
 p_plm <- ggplot(plm, aes(x = (Month), y = AverageTemperature, color = as.factor(Year))) +
@@ -108,5 +103,3 @@ p_recf <- ggplot(recf, aes(x = (Month), y = AverageTemperature, color = as.facto
 p_plm
 p_crt
 p_recf
-
-
