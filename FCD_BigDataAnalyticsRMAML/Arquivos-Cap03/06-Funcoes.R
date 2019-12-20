@@ -15,7 +15,6 @@ args(sample)
 args(mean)
 args(sd)
 
-
 # Funções Built-in
 abs(-43)
 sum(c(1:5))

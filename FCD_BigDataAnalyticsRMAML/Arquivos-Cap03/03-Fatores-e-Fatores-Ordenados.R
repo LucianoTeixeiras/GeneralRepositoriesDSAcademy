@@ -98,6 +98,7 @@ summary(df$Etnia)
 
 # Plot
 # Agora se fizermos um plot, temos um boxplot para estas variáveis categóricas
+par(mar = rep(2, 4))
 plot(df$Idade~df$Etnia, xlab = 'Etnia', ylab = 'Idade', main = 'Idade por Etnia')
 
 
@@ -110,6 +111,3 @@ str(df)
 df$Estado_Civil.cat <- factor(df$Estado_Civil, labels = c("Solteiro", "Casado", "Divorciado"))
 df
 str(df)
-
-
-
