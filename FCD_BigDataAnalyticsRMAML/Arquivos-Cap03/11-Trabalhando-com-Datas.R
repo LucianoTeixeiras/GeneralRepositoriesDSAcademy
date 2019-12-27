@@ -162,5 +162,3 @@ plot(round_date(sono$rise.time, "day"), sono$sleep.time/3600, type = "o", col = 
 axis(side = 4)
 mtext(side = 4, line = 2.5, col = "red", "Duração do Sono")
 mtext(side = 2, line = 2.5, col = "blue", "Eficiência do Sono")
-
-
