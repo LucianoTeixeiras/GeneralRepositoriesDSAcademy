@@ -12,10 +12,8 @@ getwd()
 # Lista de pacotes base carregados
 search()
 
-
 # Demo
 demo("graphics")
-
 
 # Plot Básico
 x = 5:7
@@ -27,7 +25,6 @@ altura <- c(145, 167, 176, 123, 150)
 largura <- c(51, 63, 64, 40, 55)
 
 plot(altura, largura)
-
 
 # Plotando um Dataframe
 ?lynx
@@ -43,7 +40,6 @@ hist(warpbreaks$breaks)
 airquality
 transform(airquality, Month = factor(Month))
 boxplot(Ozone ~ Month, airquality, xlab = "Month", ylab = "Ozone (ppb)")
-
 
 # Especificando os parâmetros
 
